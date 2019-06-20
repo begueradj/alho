@@ -1,18 +1,18 @@
 1. DevOps
-    - Gitlab
-    - Docker
+    - gitlab
+    - docker
 
-2. Development
-    - Adonis
-    - Django
-    - Express/React
-    - OpenCV
-    - Algo
+2. Dev
+    - adonis
+    - django
+    - express/react
+    - opencv/ai
+    - algo
 
-3. SE
-    - kent beck
+3. Se
+    - kent
 
-4. SEC
-    - Crypto
-    - SQL injection
+4. InfoSec
+    - crypto
+    - sql injection
     - tcpdump
