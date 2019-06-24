@@ -1,13 +1,14 @@
-1. DevOps
+1. Do
     - gitlab
     - docker
 
-2. Dev
+2. D
     - adonis
     - django
     - express/react
     - opencv/ai
     - algo
+    - functional js
 
 3. Se
     - kent
